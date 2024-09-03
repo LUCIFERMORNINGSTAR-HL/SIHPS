@@ -44,7 +44,7 @@ Integration with Existing Systems:
 -Seamless integration with the Delhi High Court’s existing Case Management System (CMS).
 APIs for communication with other legal databases and law enforcement systems.
 
-Architecture Diagram
+##Architecture Diagram
 Frontend: React.js/Angular.js
 Backend: Node.js/Express.js
 Database: PostgreSQL/MySQL
